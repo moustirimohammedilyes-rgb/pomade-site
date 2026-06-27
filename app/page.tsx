@@ -108,10 +108,10 @@ const benefits = [
 ];
 
 const ingredients = [
-  { name: "Huile de noyaux de dattes", desc: "Riche en antioxydants et en acides gras essentiels pour régénérer et nourrir la peau en profondeur." },
-  { name: "Beurre de karité", desc: "Hydrate intensément, restaure la barrière cutanée et laisse la peau douce et souple." },
-  { name: "Vitamine E", desc: "Puissant antioxydant qui protège la peau du vieillissement prématuré causé par les radicaux libres." },
-  { name: "Huile d'amande douce", desc: "Adoucit et apaise la peau tout en stimulant le renouvellement cellulaire naturel." },
+  { name: "Poudre de noyaux de dattes", desc: "Poudre naturelle riche en antioxydants et en minéraux, elle exfolie délicatement la peau et stimule le renouvellement cellulaire pour un teint frais et lumineux." },
+  { name: "Miel", desc: "Agent hydratant et antibactérien naturel, le miel nourrit la peau en profondeur, apaise les irritations et laisse un toucher doux et soyeux." },
+  { name: "Huile de noyaux de dattes", desc: "Huile précieuse extraite à froid, riche en acides gras essentiels et en vitamines, elle régénère la peau et combat les signes du vieillissement." },
+  { name: "Vitamine E", desc: "Puissant antioxydant qui protège la peau des radicaux libres, prévient le vieillissement prématuré et renforce la barrière cutanée naturelle." },
 ];
 
 const testimonials = [
